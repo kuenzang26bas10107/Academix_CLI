@@ -1,5 +1,4 @@
 """
-task_manager.py
 This module contains the Core CRUD (Create, Read, Update, Delete) logic.
 It modifies the tasks dictionary in memory.
 """
