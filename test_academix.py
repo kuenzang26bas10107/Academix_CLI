@@ -1,5 +1,4 @@
 """
-test_academix.py
 This module contains automated unit tests to verify the core logic 
 of the Academix CLI application, specifically the validators and the priority engine.
 """
