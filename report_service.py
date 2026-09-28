@@ -1,5 +1,4 @@
 """
-report_service.py
 This module handles all the output formatting.
 It renders data into clean ASCII tables and progress bars for the CLI.
 """
