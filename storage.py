@@ -1,5 +1,4 @@
 """
-storage.py
 This module handles saving and loading data to a local JSON file.
 It provides data persistence so tasks aren't lost when the application closes.
 """
