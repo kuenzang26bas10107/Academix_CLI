@@ -40,7 +40,7 @@ Academix_CLI/
 1. Make sure you have Python 3 (3.8 or newer) installed. Verify by running `python --version` (or `python3 --version`).
 2. Clone the repo and move into the project directory:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/kuenzang26bas10107/Academix_CLI
    cd Academix_CLI
    ```
 3. Run the script (no pip install needed):
