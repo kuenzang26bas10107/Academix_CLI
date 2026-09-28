@@ -1,5 +1,4 @@
 """
-main.py
 This is the entry point of the Academix CLI application.
 It connects all the modules together and runs the interactive menu loop.
 """
