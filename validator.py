@@ -1,5 +1,4 @@
 """
-validator.py
 This module contains functions to validate user input.
 It ensures our program doesn't crash if the user enters the wrong type of data.
 """
